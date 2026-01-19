@@ -122,7 +122,7 @@ The evaluation for this assignment will be based on the following criteria:
 
 ---
 
-# How to Upload your Challenge
+# How to Upload your Challenges
 
 Check this module: [click this](https://orchid-clematis-3e4.notion.site/Panduan-Penggunaan-Git-Untuk-Upload-Assignment-e2d80a19b3684f5d8f1a4209dcf85445?pvs=73)
 
