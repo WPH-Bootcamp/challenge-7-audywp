@@ -1,3 +1,4 @@
+[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/CX1XKJPp)
 # Challenge 9 - Restaurant Web Frontend (Next JS + TypeScript)
 
 # Description
@@ -121,7 +122,7 @@ The evaluation for this assignment will be based on the following criteria:
 
 ---
 
-# How to Upload your Challenge
+# How to Upload your Challenges
 
 Check this module: [click this](https://orchid-clematis-3e4.notion.site/Panduan-Penggunaan-Git-Untuk-Upload-Assignment-e2d80a19b3684f5d8f1a4209dcf85445?pvs=73)
 
